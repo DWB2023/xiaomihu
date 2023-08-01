@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python  就是测试测试dwb
 # -*- coding: utf-8 -*-
 
 from setuptools import setup
